@@ -23,7 +23,8 @@
 
 ## projetos  
 - **[minhas redes neurais](https://github.com/Shiniga-OP/RedesNeurais)** -minha mini IA
-- **[meu interpretador em java](https://github.com/Shiniga-OP/Interpretador-em-Java)** -meu interpretador feito em java
+- **[meu maior projeto de jogo](https://github.com/Shiniga-OP/MiniMine)** -meu maior jogo
+- **[minha linguagem de programação interpretada](https://github.com/Shiniga-OP/Fp)** -minha linguagem de programação interpretada
 
 ## contato  
 **Sem contato, sou anti-social**
