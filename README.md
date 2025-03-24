@@ -25,6 +25,7 @@
 - **[Redes Neurais](https://github.com/Shiniga-OP/RedesNeurais)** -minha mini IA
 - **[MiniMine](https://github.com/Shiniga-OP/MiniMine)** -meu maior jogo
 - **[Fp](https://github.com/Shiniga-OP/Fp)** -minha linguagem de programação interpretada
+- **[Engine](https://github.com/Shiniga-OP/Engine-de-estudos)** -minha engine em javascript
 
 ## contato  
 **Sem contato, sou anti-social**
