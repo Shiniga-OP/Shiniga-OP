@@ -22,9 +22,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ## projetos  
-- **[minhas redes neurais](https://github.com/Shiniga-OP/RedesNeurais)** -minha mini IA
-- **[meu maior projeto de jogo](https://github.com/Shiniga-OP/MiniMine)** -meu maior jogo
-- **[minha linguagem de programação interpretada](https://github.com/Shiniga-OP/Fp)** -minha linguagem de programação interpretada
+- **[Redes Neurais](https://github.com/Shiniga-OP/RedesNeurais)** -minha mini IA
+- **[MiniMine](https://github.com/Shiniga-OP/MiniMine)** -meu maior jogo
+- **[Fp](https://github.com/Shiniga-OP/Fp)** -minha linguagem de programação interpretada
 
 ## contato  
 **Sem contato, sou anti-social**
