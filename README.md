@@ -26,6 +26,6 @@
 - **[MiniMine](https://github.com/Shiniga-OP/MiniMine)** -meu maior jogo
 - **[Fp](https://github.com/Shiniga-OP/Fp)** -minha linguagem de programação interpretada
 - **[Engine](https://github.com/Shiniga-OP/Engine-de-estudos)** -minha engine em javascript
-
+- **[Terminal Simples](https://github.com/Shiniga-OP/Terminal-simples-android)** -meu mini terminal
 ## contato  
 **Sem contato, sou anti-social**
