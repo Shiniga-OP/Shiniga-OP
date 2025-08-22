@@ -1,4 +1,4 @@
-# eu sou o Shiniga-OP  
+# eu sou o Shiniga-OP, e eu programo a 1 ano no celular
 
 <img src="eu.png">
 
