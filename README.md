@@ -15,7 +15,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](asm.png)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAmklEQVRIDbXBAQEAAAABIP6PzgpVJtQwYAAAAAElFTkSuQmCC)
 ![Spck Editor](https://img.shields.io/badge/Spck_Editor-blue?style=for-the-badge)
 ![AIDE Plus](https://img.shields.io/badge/AIDE_Plus-blue?style=for-the-badge)
 ![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge)
