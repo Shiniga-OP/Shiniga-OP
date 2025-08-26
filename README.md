@@ -5,6 +5,8 @@
 ## estatísticas  
 ![estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Shiniga-OP&show_icons=true&theme=radical)  
 ![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiniga-OP&layout=compact&theme=radical)  
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiniga-OP&theme=radical)
+![Mais usado](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiniga-OP&theme=radical)
 
 ## tecnologias  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
