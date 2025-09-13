@@ -26,8 +26,8 @@
 ## projetos  
 - **[Redes Neurais](https://github.com/Shiniga-OP/RedesNeurais)** -minha mini IA
 - **[MiniMine](https://github.com/Shiniga-OP/MiniMine)** -meu maior jogo
-- **[Fp](https://github.com/Shiniga-OP/Fp)** -o interpretador da linguagem de programação
-- **[Fpb](https://github.com/Shiniga-OP/Fpb)** -o compilador da linguagem de programação
+- **[Fp](https://github.com/Shiniga-OP/Fp)** -o interpretador da minha linguagem de programação
+- **[Fpb](https://github.com/Shiniga-OP/Fpb)** -o compilador da minha linguagem de programação (binário)
 - **[Engine](https://github.com/Shiniga-OP/Engine-de-estudos)** -minha engine em javascript
 - **[Terminal Simples](https://github.com/Shiniga-OP/Terminal-simples-android)** -meu mini terminal
 - **[AssemblyIDE](https://github.com/Shiniga-OP/AssemblyIDE)** -minha IDE de Assembly
