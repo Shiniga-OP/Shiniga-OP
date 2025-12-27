@@ -3,7 +3,6 @@
 <img src="eu.png">
 
 ## estatísticas  
-![estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Shiniga-OP&show_icons=true&theme=radical)  
 ![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiniga-OP&layout=compact&theme=radical)  
 ![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiniga-OP&theme=radical)
 ![Mais usado](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiniga-OP&theme=radical)
@@ -34,5 +33,6 @@
 - **[Terminal Simples](https://github.com/Shiniga-OP/Terminal-simples-android)** -meu mini terminal
 - **[AssemblyIDE](https://github.com/Shiniga-OP/AssemblyIDE)** -minha IDE de Assembly
 - **[Neon](https://github.com/Shiniga-OP/Neon)** -meu bootloader + kernel em assembly ARM64
+- **[Ycaro](https://github.com/Shiniga-OP/Ycaro)** -meu projeto de console 16-bit
 ## contato  
 **Sem contato, sou anti-social**
