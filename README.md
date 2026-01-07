@@ -33,6 +33,7 @@
 - **[Terminal Simples](https://github.com/Shiniga-OP/Terminal-simples-android)** -meu mini terminal
 - **[AssemblyIDE](https://github.com/Shiniga-OP/AssemblyIDE)** -minha IDE de Assembly
 - **[Neon](https://github.com/Shiniga-OP/Neon)** -meu bootloader + kernel em assembly ARM64
+- **[Neon-micro](https://github.com/Shiniga-OP/Neon-micro)** -meu bootloader + kernel em assembly RISC-V 32-bit pro meu console
 - **[Ycaro](https://github.com/Shiniga-OP/Ycaro)** -meu projeto de console 16-bit
 ## contato  
 **Sem contato, sou anti-social**
