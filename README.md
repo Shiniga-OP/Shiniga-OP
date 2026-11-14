@@ -1,6 +1,4 @@
-# eu sou o Shiniga-OP, e eu programo a 2 anos no celular
-
-<img src="eu.png">
+# eu sou o Shiniga-OP, e eu programo a 3 anos no celular
 
 ## estatísticas  
 ![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiniga-OP&layout=compact&theme=radical)  
@@ -27,7 +25,9 @@
 ## projetos  
 - **[Redes Neurais](https://github.com/Shiniga-OP/RedesNeurais)** -minha mini IA
 - **[MiniMine](https://github.com/Shiniga-OP/MiniMine)** -meu maior jogo
-- **[Fp](https://github.com/Shiniga-OP/Fp)** -o interpretador da minha linguagem de programação
+- **[MiniMine-playstore](https://play.google.com/store/apps/details?id=com.minimine)**
+- **[MiniMine-itch.io](https://foca-do-estudios.itch.io/minimine)**
+- **[Fp](https://github.com/Shiniga-OP/Fp)** -o interpretador da minha linguagem de programação (interpretação)
 - **[Fpb](https://github.com/Shiniga-OP/Fpb)** -o compilador da minha linguagem de programação (binário)
 - **[Eco-Engine](https://github.com/Shiniga-OP/Eco-Engine)** -minha engine mobile
 - **[Terminal Simples](https://github.com/Shiniga-OP/Terminal-simples-android)** -meu mini terminal
@@ -36,4 +36,5 @@
 - **[Neon-micro](https://github.com/Shiniga-OP/Neon-micro)** -meu bootloader + kernel em assembly RISC-V 32-bit pro meu console
 - **[Ycaro](https://github.com/Shiniga-OP/Ycaro)** -meu projeto de console 16-bit
 ## contato  
-**Sem contato, sou anti-social**
+- **[YouTube](https://youtube.com/@Shiniga-OP)**
+- **[Itch.io](https://foca-do-estudios.itch.io/)**
